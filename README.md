@@ -1,4 +1,9 @@
-# -data-structure-algorithm
+# DATA STRUCTURE ALGORITHM ASSIGNMENT
+# Name: Eshwar
+# Roll No: CSE/2K24/48
+# 2nd Year (3rd Semester)
+# Date: 20/06/2025
+
 # 1. Reverse an array using stack data structure
 
 def reverse_array(arr):
